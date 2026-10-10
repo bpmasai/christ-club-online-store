@@ -65,10 +65,10 @@ graph TD
 ## 3. Assignment Documentation & Guides
 
 For your coursework evaluation and manual cloud deployment, consult these specialized guides:
-- [**docs/manual-aws-setup-guide.md**](file:///c:/Users/BP%20Panwar/Documents/Projects/CollegeClubStore/docs/manual-aws-setup-guide.md) — Comprehensive, click-by-click manual AWS Console tutorial for VPC, EC2, RDS, EBS, S3, ALB, and Security Groups.
-- [**docs/evidence-matrix.md**](file:///c:/Users/BP%20Panwar/Documents/Projects/CollegeClubStore/docs/evidence-matrix.md) — Requirements-to-Evidence Matrix mapping all 4 assignment criteria to AWS resources, files, commands, and screenshots for your report.
-- [**docs/github-guide.md**](file:///c:/Users/BP%20Panwar/Documents/Projects/CollegeClubStore/docs/github-guide.md) — Step-by-step instructions for pushing this repository to your personal GitHub account.
-- [**scripts/sample-queries.sql**](file:///c:/Users/BP%20Panwar/Documents/Projects/CollegeClubStore/scripts/sample-queries.sql) — Demonstration SQL queries for listing, filtering, calculating sum, and grouping by status.
+- [**docs/manual-aws-setup-guide.md**](file:///c:/Documents/Projects/CollegeClubStore/docs/manual-aws-setup-guide.md) — Comprehensive, click-by-click manual AWS Console tutorial for VPC, EC2, RDS, EBS, S3, ALB, and Security Groups.
+- [**docs/evidence-matrix.md**](file:///c:/Documents/Projects/CollegeClubStore/docs/evidence-matrix.md) — Requirements-to-Evidence Matrix mapping all 4 assignment criteria to AWS resources, files, commands, and screenshots for your report.
+- [**docs/github-guide.md**](file:///c:/Documents/Projects/CollegeClubStore/docs/github-guide.md) — Step-by-step instructions for pushing this repository to your personal GitHub account.
+- [**scripts/sample-queries.sql**](file:///c:/Documents/Projects/CollegeClubStore/scripts/sample-queries.sql) — Demonstration SQL queries for listing, filtering, calculating sum, and grouping by status.
 
 ---
 
@@ -83,7 +83,7 @@ You can run and test the complete application locally on your Windows/Mac/Linux 
 ### 4.2 Installation & Setup
 ```bash
 # 1. Clone or open the project folder
-cd "c:\Users\BP Panwar\Documents\Projects\CollegeClubStore"
+cd "c:xxxxxxxx\Projects\CollegeClubStore"
 
 # 2. Install dependencies
 npm install
