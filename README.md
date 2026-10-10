@@ -179,3 +179,7 @@ To avoid unintended AWS billing after completing your demonstration:
 4. Delete the RDS database instance (uncheck final snapshot).
 5. Empty and delete the S3 bucket.
 6. Delete the VPC (`christ-club-vpc`).
+=======
+# christ-club-online-store
+College Club Online Store 
+
