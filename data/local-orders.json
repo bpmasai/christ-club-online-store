@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ord_mv2mw6rv_muym",
+    "customerName": "Automated Verification Test",
+    "amount": 999,
+    "status": "paid",
+    "itemsSummary": "End-to-End Test Merchandise Kit",
+    "createdAt": "2026-10-10T16:54:08.203Z"
+  },
+  {
+    "id": "ord_christ_001",
+    "customerName": "Arjun Sharma",
+    "amount": 1250,
+    "status": "paid",
+    "itemsSummary": "Christ Tech Club Navy Hoodie (Size L)",
+    "createdAt": "2026-10-08T16:54:08.030Z"
+  },
+  {
+    "id": "ord_christ_002",
+    "customerName": "Priya Nair",
+    "amount": 350,
+    "status": "pending",
+    "itemsSummary": "Annual AI Summit Hackathon Badge & Lanyard",
+    "createdAt": "2026-10-09T04:54:08.030Z"
+  },
+  {
+    "id": "ord_christ_003",
+    "customerName": "Rohan Verma",
+    "amount": 600,
+    "status": "shipped",
+    "itemsSummary": "Robotics Club Brass Lapel Pin & Ceramic Coffee Mug",
+    "createdAt": "2026-10-09T16:54:08.030Z"
+  },
+  {
+    "id": "ord_christ_004",
+    "customerName": "Sneha Kulkarni",
+    "amount": 1500,
+    "status": "paid",
+    "itemsSummary": "Christ Cultural Fest VIP Delegate Pass",
+    "createdAt": "2026-10-09T22:54:08.030Z"
+  },
+  {
+    "id": "ord_christ_005",
+    "customerName": "David D'Souza",
+    "amount": 850,
+    "status": "pending",
+    "itemsSummary": "Department of AI Sports Jersey (Size M)",
+    "createdAt": "2026-10-10T04:54:08.030Z"
+  },
+  {
+    "id": "ord_christ_006",
+    "customerName": "Ananya Iyer",
+    "amount": 450,
+    "status": "shipped",
+    "itemsSummary": "Christ AI Club Stainless Steel Insulated Bottle",
+    "createdAt": "2026-10-10T10:54:08.030Z"
+  },
+  {
+    "id": "ord_christ_007",
+    "customerName": "Karthik Reddy",
+    "amount": 2200,
+    "status": "paid",
+    "itemsSummary": "Winter Merchandise Bundle (Hoodie, Cap, Thermal Mug)",
+    "createdAt": "2026-10-10T14:54:08.030Z"
+  }
+]

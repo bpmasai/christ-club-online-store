@@ -1,0 +1,34 @@
+// Prisma Schema for Christ Club Online Store
+// Compatible with Amazon RDS PostgreSQL in AWS production
+// and local database development.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Order Status Enum
+enum OrderStatus {
+  pending
+  paid
+  shipped
+}
+
+// Order Model
+model Order {
+  id           String      @id @default(cuid())
+  customerName String      @map("customer_name")
+  amount       Decimal     @db.Decimal(10, 2)
+  status       OrderStatus @default(pending)
+  itemsSummary String      @default("Club Official Merchandise") @map("items_summary")
+  createdAt    DateTime    @default(now()) @map("created_at")
+  updatedAt    DateTime    @updatedAt @map("updated_at")
+
+  @@index([status])
+  @@index([createdAt])
+  @@map("orders")
+}
